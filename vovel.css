@@ -5,8 +5,8 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 50vh;
-    background: linear-gradient(to right, #f1e606, #c507da);
-    color: #fff;
+    background: linear-gradient(to right, #f1e606, #f67aae);
+    color: #1d1f20;
   }
   
   #container {
@@ -25,7 +25,7 @@ body {
   }
   
   #result {
-    background: rgba(255, 255, 255, 0.2);
+    background: rgba(242, 245, 248, 0.2);
     padding: 10px;
     border-radius: 5px;
     margin-top: 10px;

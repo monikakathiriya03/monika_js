@@ -13,15 +13,19 @@ body{
     justify-content: center; 
     align-items: center; 
 } 
+
 h1{
     color :rgb(26, 24, 26);
+    font-size: 40px;
 }
 p{
     color :rgb(227, 232, 220);
 }
 h{
-    color: rgb(46, 12, 137);
+    color: rgb(191, 240, 15);
+    font-size: 25px;
 }
+
 .heading { 
     border: 2px solid green; 
     padding: 5px; 
@@ -29,3 +33,11 @@ h{
     text-align: center; 
     width: 400px; 
 } 
+
+#submit{
+    border-radius: 500px;
+    width: 90px;
+    height: 40px;
+    font-size: 30px;
+    background : linear-gradient(to right,rgb(180, 249, 60),rgb(205, 232, 107));
+}

@@ -2,7 +2,7 @@
     font-family: Arial, sans-serif;
     font-size: 240px;
     font-weight: bold;
-    color: #f9f7f8;
+    color: #201b1e;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 1 1 5px rgba(0, 0, 0, 0.1);
@@ -23,5 +23,5 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: linear-gradient(to right, #f38907,#dbdadb,#065538);
+    background: linear-gradient(to right, #edea8f,#b8e3e0,#bbbdb8);
 }
